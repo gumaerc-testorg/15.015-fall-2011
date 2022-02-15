@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 4b970ae9-a330-7edd-a999-5d96261d3324
 title: Study Questions
 uid: d391ea04-32c8-922a-ca04-61170920c946
