@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of study questions to guide students through
+  their readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

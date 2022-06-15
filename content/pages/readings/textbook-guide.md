@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section highlights recommended chapters from optional textbooks
+  for students who want to augment their knowledge of the material.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

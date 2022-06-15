@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions, guidelines, and suggestions for the
+  group project of the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with summaries
+  of each lecture.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ LECTURE SUMMARIES
 The issues, short–term and long–term
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_015f11_lec01))
+({{% resource_link 7c34e66f-2cec-ef11-a5a9-3bbfe6f26465 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ The issues, short–term and long–term
 Determinants of long–term growth
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_015f11_lec02))
+({{% resource_link 162a16ae-8534-f8f9-b825-dd7a50532ac9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +57,7 @@ Determinants of long–term growth
 Exchange rates for emerging markets
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_015f11_lec03))
+({{% resource_link 144da4f1-91d0-a231-c9d4-1479d661692a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +69,7 @@ Exchange rates for emerging markets
 Exchange rates for industrialized countries
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_015f11_lec04))
+({{% resource_link b759e632-5ba6-f4b6-9aa5-36d5a1990eca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +81,7 @@ Exchange rates for industrialized countries
 Banking crises
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_015f11_lec05))
+({{% resource_link 33bfdacd-8cc4-508a-a3f8-d042c0f09f86 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +93,7 @@ Banking crises
 Modern financial crises
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_015f11_lec06))
+({{% resource_link 7b6e88bb-4db2-5c72-5024-d78334903f30 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +105,7 @@ Modern financial crises
 Japan's lost decade
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_015f11_lec07))
+({{% resource_link 82ad7ab1-d3f4-a33c-eda8-ebf742d2509c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +117,7 @@ Japan's lost decade
 Crisis in Asia, 1997–98
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_015f11_lec08))
+({{% resource_link cafcf3f0-8adf-0aa7-8996-785c3f445529 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +129,7 @@ Crisis in Asia, 1997–98
 Who is more prone to crisis now—Europe or the US?
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_015f11_lec09))
+({{% resource_link e22e9b61-1959-ce06-c4a9-b700c25e1551 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +141,7 @@ Who is more prone to crisis now—Europe or the US?
 Recap: Macroeconomic policy in historical perspective
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_015f11_lec10))
+({{% resource_link 35d94ab7-850b-0e7b-522b-410b7e5fa59b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +153,7 @@ Recap: Macroeconomic policy in historical perspective
 Recap: Fiscal sustainability
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_015f11_lec11))
+({{% resource_link 798faee5-ae2c-94a1-37c0-2421f96ff21a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
