@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains a description of the case write-up requirements,
+  and includes a list of cases that can be used to complete this assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 2ca2f889-8772-eedc-9343-6b603d5ca584
 ---
@@ -11,7 +16,7 @@ The case write–ups should be brief, no more than 3 double–spaced pages. You 
 
 ### Cases
 
-These case readings are also listed in the [Readings]({{< baseurl >}}/pages/readings) section of this course.
+These case readings are also listed in the {{% resource_link 4b970ae9-a330-7edd-a999-5d96261d3324 "Readings" %}} section of this course.
 
 {{< tableopen >}}
 {{< theadopen >}}

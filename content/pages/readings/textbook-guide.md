@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section highlights recommended chapters from optional textbooks
+  for students who want to augment their knowledge of the material.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 4b970ae9-a330-7edd-a999-5d96261d3324
 title: Textbook Guide
 uid: 1b45d47b-fd32-6ba0-9749-4bdaaab614fe

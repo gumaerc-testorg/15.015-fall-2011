@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides instructions, guidelines, and suggestions for the
+  group project of the course.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: ad3d1511-93a7-8cc6-d343-2afb869adec6
 ---
