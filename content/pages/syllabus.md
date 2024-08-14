@@ -31,11 +31,11 @@ Readings
 
 Readings include a combination of analytic articles and country–level case studies drawn from key historical and modern experiences.
 
-You should also keep track of daily updates regarding the global economy on [The Baseline Scenario](http://baselinescenario.com); not all posts are equally relevant for this course, so use your judgment regarding how to spend your time.
+You should also keep track of daily updates regarding the global economy on {{% resource_link "eba68b25-e8d1-47a6-928b-a4732f2f34cc" "The Baseline Scenario" %}}; not all posts are equally relevant for this course, so use your judgment regarding how to spend your time.
 
-My columns on macroeconomics and finance issues can be found at the NYT.com's [Economix blog](http://economix.blogs.nytimes.com/author/simon-johnson/) and on [Bloomberg](http://www.bloomberg.com/view/bios/simon-johnson/).
+My columns on macroeconomics and finance issues can be found at the NYT.com's {{% resource_link "d2fd2d5a-967a-46d4-84d3-ee15f0cb4fc0" "Economix blog" %}} and on {{% resource_link "150672ae-63e1-4b7f-b7e3-333c23e14dfc" "Bloomberg" %}}.
 
-You may also want to keep an eye on what appears on the [Real Time Economic Issues blog](http://www.petersoninstitute.org/realtime/) at the Peterson Institute for International Economics.
+You may also want to keep an eye on what appears on the {{% resource_link "34ec08dd-7ffb-449a-b7c6-de2709f3a66d" "Real Time Economic Issues blog" %}} at the Peterson Institute for International Economics.
 
 ### Textbooks
 
@@ -51,9 +51,9 @@ King, Philip, and Sharmila King. _International Economics and International Econ
 
 The following resources are also useful background material for all class sessions:
 
-[Financial Times](http://lexicon.ft.com/) (a general glossary)
+{{% resource_link "c63210eb-2e32-4d2f-b291-071f2ac934f9" "Financial Times" %}} (a general glossary)
 
-[US Treasury](http://www.treasury.gov/initiatives/financial-stability/glossary/Pages/Default.aspx) (a more specific glossary, focused on essential terms for US macro issues)
+{{% resource_link "81c7726e-5bde-4230-b0db-35875b11a39f" "US Treasury" %}} (a more specific glossary, focused on essential terms for US macro issues)
 
 Grading
 -------
